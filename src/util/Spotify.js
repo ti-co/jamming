@@ -1,5 +1,5 @@
 const clientId = process.env.REACT_APP_API_KEY; 
-const redirectUri = 'https://ti-co.github.io/music-app/'; // must match Spotify redirect URIs on the Spotify API settings.
+const redirectUri = 'https://ti-co.github.io/jamming/'; // must match Spotify redirect URIs on the Spotify API settings.
 let accessToken;
 
 const Spotify = {
