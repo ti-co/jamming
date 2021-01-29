@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/music-app/static/css/main.24702c7a.chunk.css",
-    "main.js": "/music-app/static/js/main.1252440e.chunk.js",
-    "main.js.map": "/music-app/static/js/main.1252440e.chunk.js.map",
-    "runtime-main.js": "/music-app/static/js/runtime-main.6aca110e.js",
-    "runtime-main.js.map": "/music-app/static/js/runtime-main.6aca110e.js.map",
-    "static/js/2.2eece21a.chunk.js": "/music-app/static/js/2.2eece21a.chunk.js",
-    "static/js/2.2eece21a.chunk.js.map": "/music-app/static/js/2.2eece21a.chunk.js.map",
-    "static/js/3.cffc7a1e.chunk.js": "/music-app/static/js/3.cffc7a1e.chunk.js",
-    "static/js/3.cffc7a1e.chunk.js.map": "/music-app/static/js/3.cffc7a1e.chunk.js.map",
-    "index.html": "/music-app/index.html",
-    "static/css/main.24702c7a.chunk.css.map": "/music-app/static/css/main.24702c7a.chunk.css.map",
-    "static/js/2.2eece21a.chunk.js.LICENSE.txt": "/music-app/static/js/2.2eece21a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/music-app/static/media/background_photo_desktop.a0687f3f.jpg"
+    "main.css": "/jamming/static/css/main.7efe7ccb.chunk.css",
+    "main.js": "/jamming/static/js/main.53370f1c.chunk.js",
+    "main.js.map": "/jamming/static/js/main.53370f1c.chunk.js.map",
+    "runtime-main.js": "/jamming/static/js/runtime-main.b851ce8f.js",
+    "runtime-main.js.map": "/jamming/static/js/runtime-main.b851ce8f.js.map",
+    "static/js/2.2eece21a.chunk.js": "/jamming/static/js/2.2eece21a.chunk.js",
+    "static/js/2.2eece21a.chunk.js.map": "/jamming/static/js/2.2eece21a.chunk.js.map",
+    "static/js/3.cffc7a1e.chunk.js": "/jamming/static/js/3.cffc7a1e.chunk.js",
+    "static/js/3.cffc7a1e.chunk.js.map": "/jamming/static/js/3.cffc7a1e.chunk.js.map",
+    "index.html": "/jamming/index.html",
+    "static/css/main.7efe7ccb.chunk.css.map": "/jamming/static/css/main.7efe7ccb.chunk.css.map",
+    "static/js/2.2eece21a.chunk.js.LICENSE.txt": "/jamming/static/js/2.2eece21a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/jamming/static/media/background_photo_desktop.a0687f3f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6aca110e.js",
+    "static/js/runtime-main.b851ce8f.js",
     "static/js/2.2eece21a.chunk.js",
-    "static/css/main.24702c7a.chunk.css",
-    "static/js/main.1252440e.chunk.js"
+    "static/css/main.7efe7ccb.chunk.css",
+    "static/js/main.53370f1c.chunk.js"
   ]
 }
